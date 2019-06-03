@@ -1,0 +1,29 @@
+
+
+ .wrapper {
+    border: 5px solid grey;
+    height: 14vh;
+    display: flex;
+    justify-content: space-around;
+    
+    
+  }
+  
+  .box {
+    width: 150px;
+    height: 105px;
+    background-color: rgb(212, 179, 173);
+    font-size: 2em;
+    text-align: center;
+    color: #fff;
+    border: 2px solid #ddd;
+    line-height: 100px;
+    
+  }
+
+p {
+    background-image: ("/janackeh.github.io/jesus-kiteque-224069-unsplash.jpg");
+    font-family: 'Dosis', sans-serif;
+    font-size: 40px;
+    font: bold rgb(180, 96, 159);
+}
